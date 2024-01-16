@@ -4,7 +4,7 @@
 
 Hello, I'm (Johir-Rihan) and I work as a web developer. I have been working as a web developer for quite some time now. I believe I am a very ambitious person who loves to work on making the website work well. Working on the web is my passion as I love to work on exciting projects.
 
-Skills: HTML / CSS/JS/PHP
+Skills: HTML / CSS/TailwindCSS/Bootstrap/JQuery/DOM/MySQL/JavaScript/PHP/Laravel
 
 - 🔭 I’m currently working on freelancer 
 - 🌱 I’m currently learning JavaScript  
