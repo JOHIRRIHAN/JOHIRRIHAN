@@ -6,13 +6,13 @@
 
 
 
-# Hey there :wave:, I'm Kenneth, it's a pleasure to meet you!
+# Hey there :wave:, I'm JOHIR RIHAN, it's a pleasure to meet you!
 
 ### A few things about me
 - I am frontend web developer doing all things creative to make the web a more unique and awesome place.
 - Coffee, photography, music and art are my happy places 
 - I enjoy bringing a static design or idea to life and learning new technologies.
-- Skilled in creating responsive designs, UI Design, HTML Emails, copywriting, and social media marketing.
+- Skilled in creating responsive designs, UI Design, HTML , css tailwindCSS, Javascript, React, Mysql, Php.
 <!-- - Graduated in 2021 with a B.S. in Web Design & Development from Southern New Hampshire University
  - Currently working on a web application for film photography and for international travel -->
 
@@ -41,7 +41,7 @@
 #### :book: CURRENTLY LEARNING :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+
   </div>
 
 ---
@@ -49,16 +49,16 @@
 ## Have a project you want to collaborate on or you just want to chat? You can contact me through either method below:
 <div id="badges" align="center">
   <br><br>
-  <a href="https://www.linkedin.com/in/kdbrand">
+  <a href="www.linkedin.com/in/johir-rihan-87391a257">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>&nbsp;
-  <a href="https://www.twitter.com/mrdebonairfox">
+  <a href="https://twitter.com/JohirRiha59424">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge" />
   </a>&nbsp;
-  <a href="https://www.instagram.com/mrdebonairfox">
+  <a href="https://www.instagram.com/mohammedjohirrayhin/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=e95950" alt="Instagram Badge" />
   </a>&nbsp;
-  <a href="mailto:kbrandon319@gmail.com">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new">
     <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
   </a>
   
@@ -66,4 +66,4 @@
   <h2>Talk to you soon!</h2>
 </div>
 
-![](https://komarev.com/ghpvc/?username=kbrandon19&style=for-the-badge)
+<!--![](https://komarev.com/ghpvc/?username=kbrandon19&style=for-the-badge)--->
