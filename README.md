@@ -1,27 +1,69 @@
-### Hi there 👋, my name is Johir Rihan
-#### About me:
-![About me:](https://camo.githubusercontent.com/8c160dcdc67f78224d0ebf688636e96683a4a26a1ee20aa525800b6902c653ab/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966)
+<div align="center">
+<img alt="Twitch Status" src="https://img.shields.io/twitch/status/mrdebfx?logo=Twitch&style=for-the-badge">
+</div>
+
+---
 
 
-Skills:  REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on Front end Developer  
-- 🌱 I’m currently learning Javascript, React 
-- 👯 I’m looking to collaborate on  I’m always looking to collaborate scientist from any field 
-- 🤔 I’m looking for help with Exploring new technologies and developing programming insights. 
-- 💬 Ask me about : anything, I am happy to help 
-- 😄 Pronouns:  She/Her/Hers 
+# Hey there :wave:, I'm Kenneth, it's a pleasure to meet you!
 
+### A few things about me
+- I am frontend web developer doing all things creative to make the web a more unique and awesome place.
+- Coffee, photography, music and art are my happy places 
+- I enjoy bringing a static design or idea to life and learning new technologies.
+- Skilled in creating responsive designs, UI Design, HTML Emails, copywriting, and social media marketing.
+<!-- - Graduated in 2021 with a B.S. in Web Design & Development from Southern New Hampshire University
+ - Currently working on a web application for film photography and for international travel -->
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JOHIRRIHAN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/JOHIR RIHAN/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Ahammed Iftey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mohammedjohirrayhin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JOHIR RIHAN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/JOHIR RIHAN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/ JOHIR RIHAN)  
+<br>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JOHIRRIHAN)](https://github.com/ryo-ma/github-profile-trophy)
+#### :hammer_and_wrench: LANGUAGES & TOOLS :
+<div align="center">
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="Xd" alt="Xd" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+ 
+</div>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHIRRIHAN)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JOHIRRIHAN&show_icons=true)  
+#### :book: CURRENTLY LEARNING :
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+  </div>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=JOHIRRIHAN)  
+---
 
+## Have a project you want to collaborate on or you just want to chat? You can contact me through either method below:
+<div id="badges" align="center">
+  <br><br>
+  <a href="https://www.linkedin.com/in/kdbrand">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>&nbsp;
+  <a href="https://www.twitter.com/mrdebonairfox">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" alt="Twitter Badge" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/mrdebonairfox">
+    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white&color=e95950" alt="Instagram Badge" />
+  </a>&nbsp;
+  <a href="mailto:kbrandon319@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
+  </a>
+  
+  
+  <h2>Talk to you soon!</h2>
+</div>
+
+![](https://komarev.com/ghpvc/?username=kbrandon19&style=for-the-badge)
